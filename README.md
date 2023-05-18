@@ -1,16 +1,18 @@
-### Hi there 👋
+###  :sunglasses: Sobre mim 
+- Me chamo Luiz Cotrim, sou programador Front-End.
+- :mortar_board: Estudando na DevClub.
 
-<!--
-**luizcotrim/luizcotrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  :sparkler:  Skills
+:white_check_mark: Aplicações e Dados:
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:hourglass: Aprendendo e  me aprofundando em:
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="css-logo"/>
+
+🛠 Ferramentas de Desenvolvimento
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual-code-logo"/>
+
+![Luiz Stats](https://github-readme-stats.vercel.app/api?username=luizcotrim&show_icons=true&theme=transparent)
